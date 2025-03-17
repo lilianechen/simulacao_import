@@ -5,7 +5,7 @@ from openpyxl import load_workbook
 import os
 
 # Caminho do arquivo original
-ORIGINAL_FILE_PATH = "/mnt/data/001_AP_SIMULAÇÃ̃O_AMIGÃO_TESTE_container_papelariaBBR.xlsx"
+ORIGINAL_FILE_PATH = "/mnt/data/001_AP_SIMULACAO_AMIGAO_TESTE_container_papelariaBBR.xlsx"
 SIMULATION_FILE_PATH = "/mnt/data/simulacao.xlsx"
 
 def create_simulation_copy():
